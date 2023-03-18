@@ -1,0 +1,21 @@
+.container{
+    padding:30px;
+    text-align: center;
+    width: 100%
+}
+.head{
+    background-color: blueviolet;
+    max-width: 2000px;
+    background-clip: text;
+    line-height: 4.1rem;
+    color: transparent;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.text{
+    background-clip: text;
+    background-image: linear-gradient(to right,#239ce2,#1977ce);
+}
+.form-field{
+    text-align: left;
+}
